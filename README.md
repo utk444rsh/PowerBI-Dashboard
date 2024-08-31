@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sales Insight Dashboard
 
 ## Overview
@@ -86,6 +85,3 @@ Contributions to this project are welcome. If you have suggestions for improveme
 ## Contact
 
 For questions or support, please contact Utkarsh Shukla at 9utkarshshukla@gmail.com.
-=======
-# PowerBI-Dashboard
->>>>>>> 2853520e3cec8f048c27d31d7a61fee787c4a13f
